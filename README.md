@@ -20,7 +20,7 @@ I'm passionate about web and mobile app development. Let's connect if you're loo
 
 Feel free to reach out! 🚀
 
-[LinkedIn](https://www.linkedin.com/in/amina01hu/) 
+[LinkedIn](https://www.linkedin.com/in/ahussein0111/) 
 
 <img align="right" alt="Amina's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amina01hu&show_icons=true&theme=apprentice" />
 <img align="center" alt="Amina's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=amina01hu&show_icons=true&theme=apprentice" />
