@@ -4,7 +4,7 @@ My name is Amina, and I'm a 4th-year Software Development student at Seneca Coll
 
 ## Skills & Expertise 🚀
 
-- **Mobile Development:** React Native, Flutter
+- **Mobile Development:** React Native, Flutter, Ionic, Xamarin
 - **Web Development:** HTML, CSS, JavaScript, React, Angular
 - **Back-End:** Node.js, Java, Python
 - **Databases:** MongoDB, PostgreSQL, MySQL
