@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Amina, and I'm a 4th-year Software Development student at Seneca College, specializing in mobile app development and automation. 📱 My goal is to create exceptional user experiences on iOS and Android using React Native and Flutter.
+My name is Amina, and I'm a 4th-year Software Development student at Seneca College, specializing in computer vision and automation. 📱 My goal is to create exceptional user experiences on iOS and Android using React Native and Flutter.
 
 ## Skills & Expertise 🚀
 
