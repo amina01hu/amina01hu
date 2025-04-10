@@ -1,14 +1,15 @@
 # Hi there! 👋
 
-My name is Amina, and I'm a 4th-year Software Development student at Seneca College, specializing in computer vision and automation. 📱 My goal is to create exceptional user experiences on iOS and Android using React Native and Flutter.
+My name is Amina, and I'm a Software Developer Graduate from Seneca College, with a strong passion in computer vision, automation, and web development. 📱 My goal is to create projects that improve daily tasks and automate repetitive processes.
 
 ## Skills & Expertise 🚀
 
+- **Computer Vision:** Python, C++, OpenCV 
 - **Mobile Development:** React Native, Flutter, Ionic, Xamarin
 - **Web Development:** HTML, CSS, JavaScript, React, Angular
 - **Back-End:** Node.js, Java, Python
 - **Databases:** MongoDB, PostgreSQL, MySQL
-- **Other Tech:** C, C++, NoSQL, jQuery, Bootstrap, AWS, Azure
+- **Other Tech:** C, NoSQL, jQuery, Bootstrap, AWS, Azure
 
 ## About Me 🌟
 
@@ -16,7 +17,7 @@ I believe in the power of collaboration and teamwork. I enjoy working with cross
 
 ## Seeking Opportunities 🌐
 
-I'm passionate about web and mobile app development. Let's connect if you're looking for a dedicated and passionate software developer with expertise in both domains! I'm always open to new opportunities and challenges.
+I'm passionate about computer vision, automation, and web development. Let's connect if you're looking for a dedicated and passionate software developer with expertise in these domains! I'm always open to new opportunities and challenges.
 
 Feel free to reach out! 🚀
 
