@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Amina, and I'm a Software Developer Graduate from Seneca College, with a strong passion in computer vision, automation, and web development. 📱 My goal is to create projects that improve daily tasks and automate repetitive processes.
+My name is Amina, and I'm a Software Developer with a strong passion in computer vision, automation, and web development. 📱 My goal is to create projects that improve daily tasks and automate repetitive processes.
 
 ## Skills & Expertise 🚀
 
